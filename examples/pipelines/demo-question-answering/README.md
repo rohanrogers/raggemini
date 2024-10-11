@@ -59,20 +59,20 @@ Follow these steps to set up and run the project on your local machine.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-repository/livepdf-rag.git
-    cd livepdf-rag
+    git clone hhttps://github.com/rohanrogers/raggemini.git
+    cd raggemini
     ```
 
 2. Build the Docker image:
 
     ```bash
-    docker build -t livepdf-rag .
+    docker build -t reggemini .
     ```
 
 3. Run the Docker container:
 
     ```bash
-    docker run -p 8000:8000 livepdf-rag
+    docker run -p 8000:8000 reggemini
     ```
 
 4. Add PDF files to the `data` folder in your project. The system will automatically detect new files or updates to existing ones.
@@ -94,7 +94,7 @@ We welcome contributions to improve the project! If you wish to contribute, plea
 For any questions or collaboration opportunities, feel free to reach out:
 
 - Email: rohanrogers5@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: www.linkedin.com/in/rohan-rogers-978757321
 ```
 
 ---
